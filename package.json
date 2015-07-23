@@ -4,8 +4,8 @@
   "description": "Testing data",
   "main": "index.js",
   "dependencies": {
-    "module_a": "1.0.0",
-    "module_b": "1.0.3"
+    "module_a": "1.0.2",
+    "module_b": "1.0.5"
   },
   "devDependencies": {},
   "scripts": {
