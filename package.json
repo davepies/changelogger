@@ -1,0 +1,16 @@
+{
+  "name": "ap-workflow-utils-fixtures",
+  "version": "1.0.0",
+  "description": "Testing data",
+  "main": "index.js",
+  "dependencies": {
+    "module_a": "1.0.0",
+    "module_b": "1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
