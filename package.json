@@ -1,13 +1,18 @@
 {
   "name": "ap-workflow-utils-fixtures",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Testing data",
   "main": "index.js",
   "dependencies": {
+    "bureaucat": "^1.0.0",
+    "deep-diff": "^0.3.2",
     "module_a": "1.0.4",
     "module_b": "1.0.7"
   },
   "devDependencies": {
+    "async": "^1.4.0",
+    "diff": "^1.4.0",
+    "ramda": "^0.17.1",
     "shelljs": "^0.5.1"
   },
   "scripts": {
